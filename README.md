@@ -1,4 +1,12 @@
-### Greetings 👋, distributed computing and cloud platforms enable faster and scalable data science solutions. This is an undertaking to traverse various facets of data science in a problem-solution manner with a deliberate emphasis on big data and cloud computing. AI/ML, AWS, Spark, Python and Hadoop are the key technologies incorporated over here. Since data are fuel to any data-driven solution, they are attached along with brief descriptions in respective _Assets_ sub-sections. Both suggestions and criticisms are equally acceptable. Happy learning!
+### Greetings 👋,
+
+Distributed computing and cloud platforms enable faster and scalable data science and engineering solutions. This technical portfolio showcases implementation solutions across various facets of data science and engineering, with a deliberate emphasis on big data and cloud computing. Key technologies integrated here include AI/ML, MLOps, AWS, GCP, Spark, Python, and Hadoop.
+
+Since data are the fuel for any data-driven solution, relevant datasets are provided with brief descriptions in the respective Assets sub-sections. Suggestions and criticisms are equally welcome.
+
+Happy learning!
+
+
 
 <!--
 **manoharkaranth/manoharkaranth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
