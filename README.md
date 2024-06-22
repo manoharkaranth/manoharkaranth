@@ -1,4 +1,4 @@
-### Greetings 👋,
+#### Hello 👋,
 
 Distributed computing and cloud platforms enable faster and scalable data science and engineering solutions. This technical portfolio showcases implementation solutions across various facets of data science and engineering, with a deliberate emphasis on big data and cloud computing. Key technologies integrated here include AI/ML, MLOps, AWS, GCP, Spark, Python, and Hadoop.
 
